@@ -1,0 +1,3 @@
+[remote "upstream"]
+	url = https://github.com/Flask-Middleware/flask-security
+	fetch = +refs/heads/*:refs/remotes/upstream/*
